@@ -1,5 +1,6 @@
 import praw
 
+# Make your own profile file with all these variables for oauth 2
 from profile import APP_UA
 from profile import app_id
 from profile import app_secret
